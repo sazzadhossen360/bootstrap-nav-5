@@ -1,0 +1,16 @@
+body{
+    background-color: #E0F0E6;
+}
+form.d-flex {
+    position: relative;
+}
+
+button.btn.btn-success {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.mobile{
+    display: none;
+}
+
